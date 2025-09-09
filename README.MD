@@ -18,8 +18,8 @@ Projeto focado em **padrões de projeto**: **Factory**, **Command**, **Strategy*
 ## Instalação
 
 ```bash
-git clone https://github.com/seu-repo.git
-cd seu-repo
+git clone https://github.com/anallix/Teste-Python.git
+cd Teste-Python
 
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
